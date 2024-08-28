@@ -1,6 +1,5 @@
 #Importing relevant libraries
 import tkinter as tk
-import keyboard
 
 #Creating a global variable
 user_input = ""
